@@ -1,1 +1,1 @@
-macos ios swift objective-c xcode swift-5
+https://github.com/facebook/facebook-ios-sdk.git
