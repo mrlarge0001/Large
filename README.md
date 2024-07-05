@@ -18,3 +18,4 @@ $loginUrl = $helper->getLoginUrl($permissions);
 
 echo "<a href='$loginUrl'>Log in with Facebook</a>";
 ?>
+$status_url = 'https://www.<gfs.tle>.com/deletion?id=abc123
