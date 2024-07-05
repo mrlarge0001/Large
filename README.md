@@ -12,10 +12,11 @@ $facebook = new Facebook([
 
 $helper = $facebook->getRedirectLoginHelper();
 
+
 $permissions = ['email', 'public_profile']; // Add more permissions as needed
 
 $loginUrl = $helper->getLoginUrl($permissions);
 
 echo "<a href='$loginUrl'>Log in with Facebook</a>";
 ?>
-$status_url = 'https://www.<gfs.tle>.com/deletion?id=abc123
+$status_url = 'https://www.gfs.tle.com/deletion?id=abc123
